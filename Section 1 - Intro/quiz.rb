@@ -10,3 +10,7 @@ p address[3]
 new_address = address.reverse()
 
 p new_address
+
+var = "ss"
+
+puts var.methods
